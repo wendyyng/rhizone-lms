@@ -3,6 +3,9 @@
 This monorepo contains the applications and services that constitute the Rhizone
 Learning Management System.
 
+## Demo
+YouTube: https://youtu.be/Qi0XeOApP6c
+
 ## Getting started
 
 ### 1. GitHub authentication
